@@ -1,0 +1,10 @@
+Comandos git:
+
+git --version  (para saber que version tenemos instalada)
+
+git init
+
+git status
+
+git add "nombre del archivo" --- o --- git add .  "para agregar todos los archivos"
+
