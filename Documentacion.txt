@@ -8,3 +8,8 @@ git status
 
 git add "nombre del archivo" --- o --- git add .  "para agregar todos los archivos"
 
+git commit -m "descripcion de los cambios hechos"
+
+git config --global user.email "correo"
+git config --global user.name "escribir nombre"
+
